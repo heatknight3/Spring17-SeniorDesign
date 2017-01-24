@@ -1,1 +1,127 @@
--Ping Pong launcher and tracking: Use tracking of the user in order to decide the direction and power of the launched ball
+Ideas:
+
+1. Concussion detection Helmets:
+	- Measures force of hit, and compares current brain wave reading to previous baseline results
+	
+2. Blood Alcohol Flask:
+	- Measures BAC if over preset BAC, will not open for more alcohol
+	
+3. Sort and Dispense change:
+	- receives change, sorts appropriately, dispenses exact change
+	
+4. Sort recycling using visual detection:
+	- accepts any item to be recycled, will sort appropriately. e.g. separates cardboard/platic
+	
+5. Automated Smart Bartender:
+	- Mixes any known drink selected by user, may also contain user profiles for extensive features using collected data
+	
+6. Smart Coffee Warmer Mug:
+	- Measures temperature of drink, maintains at perfect drinking temperature with cooling and heating
+	
+7. Media/Light Home weareable with voice commands:
+	- Follows you around home turning on and off lights/media depending on room presence
+	
+8. 3D scan head, cuts your hair:
+	- Machine cuts your hair, machines don't sneeze
+	
+9. automated tailor:
+	- takes your measurements, tailors clothes for perfect fit
+	
+10. Ping Pong launcher and tracking:
+	- Use tracking of the user in order to decide the direction and power of the launched ball
+
+11. accelerometer in sleds/pads to measure force by linemen:
+	- measures strength of hit, etc... for use by football teams/fight training?
+	
+12. Lego organizer
+	- dump legos in, organized by color, shape, use, etc...
+	
+13. Autonomous Vehicle/Rover
+	- Looks for an object and picks it up
+	
+14. Tire Pressure and gauge system w/ air pump system
+	- Keeps track of tire pressure of car
+	- If pressure is low, indicates to driver
+	- Will supply air to the tire up to 50 miles until user is able to put air in it
+
+15. Music Water Display
+	- Water moves to beat of music
+	- bluetooth to a device
+	- speech recognition to play/pause/stop/next/back
+
+16. Speech Recognition device/LED Dispaly
+	- Will display a number or letter on an LED Display
+	- waits for user to say letter or number displayed
+	- if correct will move on to the next letter or number, if incorrect will wait for correct answer
+	- helping kids learn numbers and letters
+
+17. Race Car/Rollercoaster Simulator
+	- makes it possible to feel the real vibration as if being on rollercoaster or race car
+	
+18. Energy/Power Usage monitor
+	- monitors energy usage in household
+	-application on smart phone to adjust and monitor daily
+	- app incorporated
+
+19. House alarm system
+	- main alarm w/ silent alarm to indicate robbery
+	- camera system
+	- applicatons incorporated w/ camera system to monitor house
+	
+20. Robot
+	- make it do household chores like fold clothes
+	- clean floors
+
+21. Russian Roulette/Ring of fire
+	- drinking card game
+	
+22. Foot Pressure and Gait Tracker
+	- include in app, for use by PTs to track patients progress
+
+23. Magnetic Sand Table
+	- Looks cool
+
+24. Wearable Workout Buddy
+	
+25. Humidity Sensing Drying Machine
+	- stops when clothes are sensed as "dry"
+
+26. Motion Sensing Shower Head w/ Bluetooth speaker
+	- may also include lights
+	
+27. VR Headset w/ Surround Sound
+
+28. Joint Flexibility Tracker
+	- Measures flexibility in body joints, data used by doctors to track progress
+	
+29. Laptop carrying case w/ portable device charging
+	- May also be solar powered
+	
+30. Bluetooth Keychain and Pedomoter
+	- includes phone app for finding
+	
+31. Solar Panel Phone Case/Charger
+
+32. foosball table scorer and display
+
+33.Fire Alarm, follow sound and display arrows. 
+	- Does not lead u into fire. 
+	- Maybe a phone app? indoor gps directions? Custom map?
+	- http://www.brighthubengineering.com/consumer-appliances-electronics/68799-fire-alarm-sensor-tgs-813-explained/
+	- http://www.brighthubengineering.com/diy-electronics-devices/113566-make-a-simple-ic-741-smoke-detector-circuit-schematic-diagram-enclosed/
+
+34. HITSMART, which wear boxing gloves with accelerator and other stuff to measure your hits, connected to phone app. 
+
+35. light up, rearangable sensor driven hopscotch
+
+36. voice and gesture controlled mirror with the ability to play videos such as netflix or youtube.
+
+37. Robotic pet for use as emotional companion for people who can’t have real animals
+
+38. Some version of Memrowave (microwave that you scan bar codes and it creates database for timing how long to cook and stuff)
+
+39. autonomous air hockey opponent
+
+40. sensor alert system for when a baby rolls over onto his stomach?
+
+41. autonomous/remote controlled walker/wheelchair to come to patients or move out of the room for more space
