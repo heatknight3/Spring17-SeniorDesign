@@ -20,3 +20,8 @@ Living Documents:
 		- Here you can find: Dates, Purpose of the Meeting, Attendees, Resolutions, Actions Required (by individuals or group),
 			and Additional Notes on the meeting.
 		- Please make sure when you update it to update the "Last Updated Cell"
+		
+Other Documents:
+	
+	Divide and Conquer Results:
+		- Results from surveys and average scores, shows process for picking top 5

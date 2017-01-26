@@ -1,4 +1,30 @@
-﻿Second Round Ideas: (selected via voting; top 20 based on average score)
+﻿Final Five Ideas: (selected via voting; top 5 selected base on average 2nd round score and avg. score from 1st round)
+
+6. Smart Coffee Warmer Mug: (2nd - 4.25)
+	- Measures temperature of drink, maintains at perfect drinking temperature with cooling and heating
+
+
+16. Speech Recognition device/LED Display: (5th - 4.15)
+	- Will display a number or letter on an LED Display
+	- waits for user to say letter or number displayed
+	- if correct will move on to the next letter or number, if incorrect will wait for correct answer
+	- helping kids learn numbers and letters
+
+22. Foot Pressure and Gait Tracker: (1st - 4.75)
+	- include in app, for use by PTs to track patients progress
+
+
+26. Motion Sensing Shower Head w/ Bluetooth speaker: (3rd - 4.25)
+	- may also include lights
+
+33.Fire Alarm, follow sound and display arrows: (4th - 4.2)
+	- Does not lead u into fire. 
+	- Maybe a phone app? indoor gps directions? Custom map?
+	- http://www.brighthubengineering.com/consumer-appliances-electronics/68799-fire-alarm-sensor-tgs-813-explained/
+	- http://www.brighthubengineering.com/diy-electronics-devices/113566-make-a-simple-ic-741-smoke-detector-circuit-schematic-diagram-enclosed/
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Second Round Ideas: (selected via voting; top 20 based on average score)
 
 1. Concussion detection Helmets:
 	- Measures force of hit, and compares current brain wave reading to previous baseline results
