@@ -1,4 +1,19 @@
-﻿﻿Final Five Ideas: (selected via voting; top 5 selected base on average 2nd round score and avg. score from 1st round)
+﻿Initial Document Stage: 
+
+16. Speech Recognition device/LED Display: 
+	- Will display a number or letter on an LED Display
+	- waits for user to say letter or number displayed
+	- if correct will move on to the next letter or number, if incorrect will wait for correct answer
+	- helping kids learn numbers and letters
+
+33.Fire Alarm, follow sound and display arrows:
+	- Does not lead u into fire. 
+	- Maybe a phone app? indoor gps directions? Custom map?
+	- http://www.brighthubengineering.com/consumer-appliances-electronics/68799-fire-alarm-sensor-tgs-813-explained/
+	- http://www.brighthubengineering.com/diy-electronics-devices/113566-make-a-simple-ic-741-smoke-detector-circuit-schematic-diagram-enclosed/
+
+-------------------------------------------------------------------------------------------------------------------------
+﻿Final Five Ideas: (selected via voting; top 5 selected base on average 2nd round score and avg. score from 1st round)
 
 6. Smart Coffee Warmer Mug: (2nd - 4.25)
 	- Measures temperature of drink, maintains at perfect drinking temperature with cooling and heating
